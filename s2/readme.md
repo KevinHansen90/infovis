@@ -9,6 +9,6 @@ Video de [Andy Kriebel](https://youtu.be/bORvGBqKfD4) y el de [Eva Murray](https
 Herramientas que vamos a utilizar:
 
 1. Tableau
-2. [Flourish](https://kevinhansen90.github.io/infovis/s2/beeswarm_flourish.html)
-3. ObservableHQ (Plot.js y D3.js)
-4. Colab (python & altair y R & ggplot2)
+2. [Flourish 1](https://kevinhansen90.github.io/infovis/s2/beeswarm_flourish.html)
+3. Flourish 2
+4. Colab (python & altair)
