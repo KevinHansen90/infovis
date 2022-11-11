@@ -1,7 +1,10 @@
-aca van a ir todas las cosas de la semana 1.
+# Semana 1
 
-makeovermonday 2022 w43
+## MakeOverMonday [week 43 2022](https://data.world/makeovermonday/2022w43):
+### Why Some MLB Pitchers Are Abandoning The Fastball
+#### Source: [FiveThirtyEight](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)
 
-Why Some MLB Pitchers Are Abandoning The Fastball - Source: FiveThirtyEight
-
-tableau
+* [Tableau](https://kevinhansen90.github.io/infovis/s1/tableau.html)
+* RawGraphs:
+  1. [Streamgraph](https://kevinhansen90.github.io/infovis/s1/streamgraph.html)
+  2. [Bump Chart](https://kevinhansen90.github.io/infovis/s1/bumpchart.html)
