@@ -1,0 +1,28 @@
+Index Charts
+
+Stacked Graphs
+
+Small Multiples
+
+Horizon Graphs
+
+SPLOM (Scatter Plot Matrix)
+
+Parallel Coordinates
+
+Flow Maps
+
+Choropleth Maps
+
+Cartograms
+
+Hierarchies
+Node-link Diagrams
+
+Adjacency Diagrams
+
+Enclosure Diagrams
+
+Arc Diagrams
+
+Matrix Views
