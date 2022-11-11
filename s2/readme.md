@@ -1,14 +1,9 @@
-# semana 2
+# Semana 2
 
-Los datos que vamos a utilizar para esta semana: https://data.world/makeovermonday/2022w44 
-
+## MakeOverMonday [week 44 2022](https://data.world/makeovermonday/2022w44):
 ### Fundraising by Members of the 117th Congress
+#### Source: [Open Secrets](https://www.opensecrets.org/members-of-congress/members-list)
 
-Video de [Andy Kriebel](https://youtu.be/bORvGBqKfD4) y el de [Eva Murray](https://youtu.be/j8yQu_pEOcw)
-
-Herramientas que vamos a utilizar:
-
-1. Tableau
-2. [Flourish 1](https://kevinhansen90.github.io/infovis/s2/beeswarm_flourish.html)
-3. Flourish 2
-4. Colab (python & altair)
+* [Tableau](https://kevinhansen90.github.io/infovis/s2/tableau.html)
+* [Flourish - Beeswarm](https://kevinhansen90.github.io/infovis/s2/beeswarm_flourish.html)
+* [Flourish - Circle](https://kevinhansen90.github.io/infovis/s2/hierarchy_circle.html)
